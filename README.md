@@ -1,7 +1,11 @@
 # 🚀 Vikram Sahani – Personal Portfolio
 
 This repository mirror of **[vikramsahani.in](https://vikramsahani.in)** – my personal portfolio website.
-
+<br/><br/>
+<p>
+  <img src="https://github.com/vikramsahani256/MyPortfolio/blob/main/HomePage.png" alt="vikram sahani portfolio"/>
+</p>
+<br/><br/>
 ## 🔹 About  
 Designed and developed using **Next.js** and **Tailwind CSS**, this portfolio showcases my skills, experience, and projects in a modern and interactive way.
 
