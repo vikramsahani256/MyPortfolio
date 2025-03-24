@@ -1,6 +1,6 @@
 # 🚀 Vikram Sahani – Personal Portfolio
 
-This repository mirror of **[vikramsahani.in](https://vikramsahani.in)** – my personal portfolio website.
+📌 This repository is a showcase of my personal portfolio website 🌐✨ **[vikramsahani.in](https://vikramsahani.in)** 
 <br/><br/>
 <p>
   <img src="https://github.com/vikramsahani256/MyPortfolio/blob/main/HomePage.png" alt="vikram sahani portfolio"/>
