@@ -1,6 +1,6 @@
 # 🚀 Vikram Sahani – Personal Portfolio
 
-📌 This repository is a showcase of my personal portfolio website 🌐✨ **[vikramsahani.in](https://vikramsahani.in)** 
+📌 This repository is a showcase of my personal portfolio website 🌐✨ **[vikramsahani.com](https://vikramsahani.com)** 
 <br/><br/>
 <p>
   <img src="https://github.com/vikramsahani256/MyPortfolio/blob/main/HomePage.png" alt="vikram sahani portfolio"/>
@@ -21,4 +21,4 @@ Designed and developed using **Next.js** and **Tailwind CSS**, this portfolio sh
 - **Domain Management:** Cloudflare  
 
 ## 📌 Live Preview  
-🌐 **[Visit My Portfolio](https://vikramsahani.in/)**  
+🌐 **[Visit My Portfolio](https://vikramsahani.com/)**  
